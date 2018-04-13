@@ -1,0 +1,288 @@
+Sat Apr  7 12:26:40 2018
+Gameday Profile Summary Statistics Generator
+
+Summary Generation Process:
+
+Total Observations
+----------------
+Every row is an observation.
+
+Unique Games
+----------------
+Surprisingly I couldn't find a Game ID field to use for unique games, so I created my own.
+I combined the start time, stadium, and date into one field to look at. This ensures 
+double headers at the same stadium on the same date are captured due to different start times.
+
+Years Covered
+----------------
+Pull the final 4 characters from 'game_date' field. Then added games counter when identifying unique games above.
+
+Unique Stadiums
+----------------
+Compare against stadium_id field and keep a master list of stadium_ids as I go.
+
+
+
+----------------------------
+Summary Observations
+----------------------------
+Total Observations: 7717189
+Total Games: 27875
+Total Stadiums: 85
+Games by Years Covered: {
+    'nan': 1,
+    '2008': 2924, 
+    '2009': 3018,
+    '2010': 2929, 
+    '2011': 2964, 
+    '2012': 2960, 
+    '2013': 2988, 
+    '2014': 2532, 
+    '2015': 2547, 
+    '2016': 2438, 
+    '2017': 2574
+}
+
+----------------------------
+Individual File Breakdown
+----------------------------
+
+File 1.csv
+-------------
+
+Observations: 210911
+Games: 974
+Unique Stadiums Added: 63
+Games by Year : {'2008': 123, '2010': 16, '2011': 834, 'nan': 1}
+
+File 2.csv
+-------------
+
+Observations: 276789
+Games: 989
+Unique Stadiums Added: 2
+Games by Year : {'2008': 99, '2011': 890 }
+
+File 3.csv
+-------------
+
+Observations: 281050
+Games: 992
+Unique Stadiums Added: 1
+Games by Year : {'2008': 98, '2011': 894}
+
+File 4.csv
+-------------
+
+Observations: 215242
+Games: 990
+Unique Stadiums Added: 4
+Games by Year : {'2008': 112, '2011': 346, '2012': 532}
+
+File 5.csv
+-------------
+
+Observations: 281676
+Games: 990
+Unique Stadiums Added: 0
+Games by Year : {'2008': 104, '2012': 886}
+
+File 6.csv
+-------------
+
+Observations: 280346
+Games: 998
+Unique Stadiums Added: 1
+Games by Year : {'2008': 103,'2012': 895}
+
+File 7.csv
+-------------
+
+Observations: 250368
+Games: 987
+Unique Stadiums Added: 0
+Games by Year : {'2008': 118, '2012': 647, '2013': 222}
+
+File 8.csv
+-------------
+
+Observations: 239310
+Games: 966
+Unique Stadiums Added: 0
+Games by Year : {'2008': 107, '2013': 859}
+
+File 9.csv
+-------------
+
+Observations: 279450
+Games: 993
+Unique Stadiums Added: 0
+Games by Year : {'2013': 892, '2008': 101}
+
+File 10.csv
+-------------
+
+Observations: 282542
+Games: 998
+Unique Stadiums Added: 0
+Games by Year : {'2013': 898, '2008': 100}
+
+File 11.csv
+-------------
+
+Observations: 198517
+Games: 562
+Unique Stadiums Added: 0
+Games by Year : {'2013': 117, '2008': 110, '2014': 335}
+
+File 12.csv
+-------------
+
+Observations: 281211
+Games: 992
+Unique Stadiums Added: 0
+Games by Year : {'2014': 891, '2008': 101}
+
+File 13.csv
+-------------
+
+Observations: 278398
+Games: 996
+Unique Stadiums Added: 0
+Games by Year : {'2014': 898, '2008': 98}
+
+File 14.csv
+-------------
+
+Observations: 203400
+Games: 587
+Unique Stadiums Added: 0
+Games by Year : {'2014': 408, '2008': 110, '2015': 69}
+
+File 15.csv
+-------------
+
+Observations: 275603
+Games: 985
+Unique Stadiums Added: 0
+Games by Year : {'2008': 100, '2015': 885}
+
+File 16.csv
+-------------
+
+Observations: 278348
+Games: 994
+Unique Stadiums Added: 0
+Games by Year : {'2015': 894, '2008': 100}
+
+File 17.csv
+-------------
+
+Observations: 254792
+Games: 838
+Unique Stadiums Added: 0
+Games by Year : {'2015': 699, '2008': 108, '2016': 31}
+
+File 18.csv
+-------------
+
+Observations: 235649
+Games: 757
+Unique Stadiums Added: 0
+Games by Year : {'2008': 98, '2016': 659}
+
+File 19.csv
+-------------
+
+Observations: 283667
+Games: 994
+Unique Stadiums Added: 1
+Games by Year : {'2008': 93, '2016': 901}
+
+File 20.csv
+-------------
+
+Observations: 279212
+Games: 972
+Unique Stadiums Added: 1
+Games by Year : {'2016': 847, '2008': 123, '2017': 2}
+
+File 21.csv
+-------------
+
+Observations: 198958
+Games: 563
+Unique Stadiums Added: 1
+Games by Year : {'2017': 494, '2008': 69}
+
+File 22.csv
+-------------
+
+Observations: 282819
+Games: 978
+Unique Stadiums Added: 1
+Games by Year : {'2017': 923, '2008': 17, '2009': 38}
+
+File 23.csv
+-------------
+
+Observations: 277281
+Games: 991
+Unique Stadiums Added: 0
+Games by Year : {'2017': 908, '2008': 11, '2009': 72}
+
+File 24.csv
+-------------
+
+Observations: 211706
+Games: 987
+Unique Stadiums Added: 4
+Games by Year : {'2017': 247, '2009': 658, '2008': 82}
+
+File 25.csv
+-------------
+
+Observations: 270197
+Games: 986
+Unique Stadiums Added: 3
+Games by Year : {'2008': 95, '2009': 891}
+
+File 26.csv
+-------------
+
+Observations: 280869
+Games: 991
+Unique Stadiums Added: 0
+Games by Year : {'2009': 897, '2008': 94}
+
+File 27.csv
+-------------
+
+Observations: 227292
+Games: 980
+Unique Stadiums Added: 1
+Games by Year : {'2009': 462, '2008': 108, '2010': 410}
+
+File 28.csv
+-------------
+
+Observations: 279814
+Games: 995
+Unique Stadiums Added: 1
+Games by Year : {'2008': 102, '2010': 893}
+
+File 29.csv
+-------------
+
+Observations: 280711
+Games: 995
+Unique Stadiums Added: 1
+Games by Year : {'2010': 898, '2008': 97}
+
+File 30.csv
+-------------
+
+Observations: 241061
+Games: 855
+Unique Stadiums Added: 0
+Games by Year : {'2010': 712, '2008': 143}

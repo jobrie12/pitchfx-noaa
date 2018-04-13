@@ -1,0 +1,1738 @@
+MLB Filter
+---------------
+
+---------------
+Summary Statistics
+---------------
+Before Filter Observations : 7,717,189
+Total Observations: 7,704,469
+Total Omitted: 12,720
+Total Omission %: 0.1648 %
+
+------------------
+Individual Results
+------------------
+
+------------------
+Processing File 1
+------------------
+
+Florida State University Seminoles is not an MLB Team - Records Omitted : 29
+University of St. Louis Billikens is not an MLB Team - Records Omitted : 80
+Florida State University Seminoles is not an MLB Team - Records Omitted : 12
+Florida State University Seminoles is not an MLB Team - Records Omitted : 43
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 9
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 70
+Boston College Eagles is not an MLB Team - Records Omitted : 35
+Boston College Eagles is not an MLB Team - Records Omitted : 18
+Northeastern University Huskies is not an MLB Team - Records Omitted : 23
+Northeastern University Huskies is not an MLB Team - Records Omitted : 57
+University of Michigan Wolverines is not an MLB Team - Records Omitted : 83
+Canada is not an MLB Team - Records Omitted : 18
+Canada is not an MLB Team - Records Omitted : 57
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 30
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 1
+Coastal Carolina University Chanticleers is not an MLB Team - Records Omitted : 26
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 53
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 83
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 118
+University of Georgia Bulldogs is not an MLB Team - Records Omitted : 6
+University of Georgia Bulldogs is not an MLB Team - Records Omitted : 28
+University of Georgia Bulldogs is not an MLB Team - Records Omitted : 55
+------------------
+Observed in File: 209971
+Omitted in File : 940
+Omission %: 0.4456856209491207%
+------------------
+
+------------------
+Processing File 2
+------------------
+
+------------------
+Observed in File: 276789
+Omitted in File : 0
+Omission %: 0.0%
+------------------
+
+------------------
+Processing File 3
+------------------
+
+National League All-Stars is not an MLB Team - Records Omitted : 9
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 10
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 15
+American League All-Stars is not an MLB Team - Records Omitted : 22
+National League All-Stars is not an MLB Team - Records Omitted : 8
+American League All-Stars is not an MLB Team - Records Omitted : 20
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 24
+American League All-Stars is not an MLB Team - Records Omitted : 19
+National League All-Stars is not an MLB Team - Records Omitted : 9
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 21
+------------------
+Observed in File: 280802
+Omitted in File : 248
+Omission %: 0.08824052659669097%
+------------------
+
+------------------
+Processing File 4
+------------------
+
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 22
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 29
+Georgetown University Hoyas is not an MLB Team - Records Omitted : 18
+Georgetown University Hoyas is not an MLB Team - Records Omitted : 49
+University of South Florida Bulls is not an MLB Team - Records Omitted : 9
+University of South Florida Bulls is not an MLB Team - Records Omitted : 24
+Boston College Eagles is not an MLB Team - Records Omitted : 58
+Northeastern University Huskies is not an MLB Team - Records Omitted : 92
+University of Miami Hurricanes is not an MLB Team - Records Omitted : 10
+University of Miami Hurricanes is not an MLB Team - Records Omitted : 55
+Florida International University Panthers is not an MLB Team - Records Omitted : 11
+Florida International University Panthers is not an MLB Team - Records Omitted : 113
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 87
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 5
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 1
+Atlanta Braves Futures is not an MLB Team - Records Omitted : 30
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 7
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 13
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 1
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 34
+State College of Florida, Manatee-Sarasota is not an MLB Team - Records Omitted : 3
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 109
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 10
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 52
+Fort Myers Miracle is not an MLB Team - Records Omitted : 66
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 2
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+Tampa Bay Rays Futures is not an MLB Team - Records Omitted : 1
+------------------
+Observed in File: 214085
+Omitted in File : 1157
+Omission %: 0.5375344960556026%
+------------------
+
+------------------
+Processing File 5
+------------------
+
+Boston College Eagles is not an MLB Team - Records Omitted : 100
+------------------
+Observed in File: 281576
+Omitted in File : 100
+Omission %: 0.03550178218946591%
+------------------
+
+------------------
+Processing File 6
+------------------
+
+Boston College Eagles is not an MLB Team - Records Omitted : 79
+American League All-Stars is not an MLB Team - Records Omitted : 35
+National League All-Stars is not an MLB Team - Records Omitted : 23
+American League All-Stars is not an MLB Team - Records Omitted : 8
+National League All-Stars is not an MLB Team - Records Omitted : 6
+American League All-Stars is not an MLB Team - Records Omitted : 7
+National League All-Stars is not an MLB Team - Records Omitted : 11
+American League All-Stars is not an MLB Team - Records Omitted : 20
+National League All-Stars is not an MLB Team - Records Omitted : 17
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 27
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 15
+American League All-Stars is not an MLB Team - Records Omitted : 11
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 11
+National League All-Stars is not an MLB Team - Records Omitted : 19
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 22
+------------------
+Observed in File: 279982
+Omitted in File : 364
+Omission %: 0.12983955540653336%
+------------------
+
+------------------
+Processing File 7
+------------------
+
+Northeastern University Huskies is not an MLB Team - Records Omitted : 47
+Canada is not an MLB Team - Records Omitted : 14
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 19
+Canada is not an MLB Team - Records Omitted : 8
+Canada is not an MLB Team - Records Omitted : 25
+Dominican Republic is not an MLB Team - Records Omitted : 9
+Dominican Republic is not an MLB Team - Records Omitted : 28
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 13
+Dominican Republic is not an MLB Team - Records Omitted : 2
+Spain is not an MLB Team - Records Omitted : 67
+Spain is not an MLB Team - Records Omitted : 22
+Italy is not an MLB Team - Records Omitted : 11
+Italy is not an MLB Team - Records Omitted : 18
+Italy is not an MLB Team - Records Omitted : 6
+Italy is not an MLB Team - Records Omitted : 20
+Mexico is not an MLB Team - Records Omitted : 4
+Mexico is not an MLB Team - Records Omitted : 10
+Mexico is not an MLB Team - Records Omitted : 1
+Mexico is not an MLB Team - Records Omitted : 1
+Mexico is not an MLB Team - Records Omitted : 1
+Mexico is not an MLB Team - Records Omitted : 1
+Mexico is not an MLB Team - Records Omitted : 1
+Mexico is not an MLB Team - Records Omitted : 17
+Mexico is not an MLB Team - Records Omitted : 36
+Puerto Rico is not an MLB Team - Records Omitted : 22
+Puerto Rico is not an MLB Team - Records Omitted : 16
+Puerto Rico is not an MLB Team - Records Omitted : 4
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 5
+United States is not an MLB Team - Records Omitted : 3
+United States is not an MLB Team - Records Omitted : 6
+United States is not an MLB Team - Records Omitted : 8
+United States is not an MLB Team - Records Omitted : 26
+United States is not an MLB Team - Records Omitted : 5
+United States is not an MLB Team - Records Omitted : 9
+Venezuela is not an MLB Team - Records Omitted : 26
+Venezuela is not an MLB Team - Records Omitted : 29
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 20
+Canada is not an MLB Team - Records Omitted : 8
+Canada is not an MLB Team - Records Omitted : 14
+Canada is not an MLB Team - Records Omitted : 28
+Dominican Republic is not an MLB Team - Records Omitted : 12
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 14
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Spain is not an MLB Team - Records Omitted : 22
+Spain is not an MLB Team - Records Omitted : 10
+Spain is not an MLB Team - Records Omitted : 26
+Spain is not an MLB Team - Records Omitted : 24
+Italy is not an MLB Team - Records Omitted : 2
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 14
+Mexico is not an MLB Team - Records Omitted : 31
+Puerto Rico is not an MLB Team - Records Omitted : 25
+Puerto Rico is not an MLB Team - Records Omitted : 12
+Puerto Rico is not an MLB Team - Records Omitted : 31
+United States is not an MLB Team - Records Omitted : 4
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 6
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 11
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 33
+Venezuela is not an MLB Team - Records Omitted : 14
+Venezuela is not an MLB Team - Records Omitted : 26
+Venezuela is not an MLB Team - Records Omitted : 11
+------------------
+Observed in File: 249302
+Omitted in File : 1066
+Omission %: 0.42577326175869123%
+------------------
+
+------------------
+Processing File 8
+------------------
+
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 57
+Japan is not an MLB Team - Records Omitted : 18
+Japan is not an MLB Team - Records Omitted : 19
+Japan is not an MLB Team - Records Omitted : 34
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 12
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 14
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 28
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 11
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 12
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 35
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 19
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 14
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 17
+Japan is not an MLB Team - Records Omitted : 53
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 21
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 16
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 17
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 17
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 23
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 14
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 7
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 11
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 12
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 26
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 20
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 13
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 21
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 46
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 28
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 14
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 24
+------------------
+Observed in File: 238637
+Omitted in File : 673
+Omission %: 0.2812251890852868%
+------------------
+
+------------------
+Processing File 9
+------------------
+
+National League All-Stars is not an MLB Team - Records Omitted : 17
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 15
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 15
+American League All-Stars is not an MLB Team - Records Omitted : 13
+National League All-Stars is not an MLB Team - Records Omitted : 19
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 18
+American League All-Stars is not an MLB Team - Records Omitted : 16
+National League All-Stars is not an MLB Team - Records Omitted : 20
+American League All-Stars is not an MLB Team - Records Omitted : 18
+------------------
+Observed in File: 279184
+Omitted in File : 266
+Omission %: 0.09518697441402756%
+------------------
+
+------------------
+Processing File 10
+------------------
+
+World Futures is not an MLB Team - Records Omitted : 39
+U.S. Futures is not an MLB Team - Records Omitted : 41
+World Futures is not an MLB Team - Records Omitted : 89
+U.S. Futures is not an MLB Team - Records Omitted : 13
+World Futures is not an MLB Team - Records Omitted : 9
+U.S. Futures is not an MLB Team - Records Omitted : 90
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 28
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 7
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 10
+American League All-Stars is not an MLB Team - Records Omitted : 20
+National League All-Stars is not an MLB Team - Records Omitted : 20
+American League All-Stars is not an MLB Team - Records Omitted : 22
+National League All-Stars is not an MLB Team - Records Omitted : 16
+American League All-Stars is not an MLB Team - Records Omitted : 8
+National League All-Stars is not an MLB Team - Records Omitted : 18
+American League All-Stars is not an MLB Team - Records Omitted : 11
+National League All-Stars is not an MLB Team - Records Omitted : 21
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 18
+------------------
+Observed in File: 281993
+Omitted in File : 549
+Omission %: 0.19430739500676006%
+------------------
+
+------------------
+Processing File 11
+------------------
+
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 8
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 18
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 59
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 22
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 30
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 16
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 19
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 20
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 19
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 14
+Tigres de Quintana Roo is not an MLB Team - Records Omitted : 26
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 11
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 13
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 13
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 28
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 9
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 16
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 19
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 15
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 12
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 14
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 12
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 13
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 27
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 5
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 31
+Rojos del Aguila de Veracruz is not an MLB Team - Records Omitted : 16
+------------------
+Observed in File: 198012
+Omitted in File : 505
+Omission %: 0.25438627422336624%
+------------------
+
+------------------
+Processing File 12
+------------------
+
+------------------
+Observed in File: 281211
+Omitted in File : 0
+Omission %: 0.0%
+------------------
+
+------------------
+Processing File 13
+------------------
+
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 21
+American League All-Stars is not an MLB Team - Records Omitted : 22
+National League All-Stars is not an MLB Team - Records Omitted : 11
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 22
+American League All-Stars is not an MLB Team - Records Omitted : 16
+National League All-Stars is not an MLB Team - Records Omitted : 12
+American League All-Stars is not an MLB Team - Records Omitted : 18
+National League All-Stars is not an MLB Team - Records Omitted : 26
+American League All-Stars is not an MLB Team - Records Omitted : 16
+National League All-Stars is not an MLB Team - Records Omitted : 12
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 19
+American League All-Stars is not an MLB Team - Records Omitted : 21
+National League All-Stars is not an MLB Team - Records Omitted : 6
+American League All-Stars is not an MLB Team - Records Omitted : 9
+------------------
+Observed in File: 278130
+Omitted in File : 268
+Omission %: 0.09626505937542655%
+------------------
+
+------------------
+Processing File 14
+------------------
+
+Georgetown University Hoyas is not an MLB Team - Records Omitted : 76
+------------------
+Observed in File: 203324
+Omitted in File : 76
+Omission %: 0.03736479842674533%
+------------------
+
+------------------
+Processing File 15
+------------------
+
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 10
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 17
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 34
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 31
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 28
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 15
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 16
+Diablos Rojos del Mexico is not an MLB Team - Records Omitted : 20
+------------------
+Observed in File: 275432
+Omitted in File : 171
+Omission %: 0.062045768732560964%
+------------------
+
+------------------
+Processing File 16
+------------------
+
+National League All-Stars is not an MLB Team - Records Omitted : 23
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 16
+American League All-Stars is not an MLB Team - Records Omitted : 21
+National League All-Stars is not an MLB Team - Records Omitted : 18
+American League All-Stars is not an MLB Team - Records Omitted : 8
+National League All-Stars is not an MLB Team - Records Omitted : 18
+American League All-Stars is not an MLB Team - Records Omitted : 11
+National League All-Stars is not an MLB Team - Records Omitted : 22
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 10
+American League All-Stars is not an MLB Team - Records Omitted : 20
+National League All-Stars is not an MLB Team - Records Omitted : 20
+American League All-Stars is not an MLB Team - Records Omitted : 20
+National League All-Stars is not an MLB Team - Records Omitted : 17
+American League All-Stars is not an MLB Team - Records Omitted : 16
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 9
+------------------
+Observed in File: 278060
+Omitted in File : 288
+Omission %: 0.10346760170721542%
+------------------
+
+------------------
+Processing File 17
+------------------
+
+------------------
+Observed in File: 254792
+Omitted in File : 0
+Omission %: 0.0%
+------------------
+
+------------------
+Processing File 18
+------------------
+
+Philadelphia Phillies Futures is not an MLB Team - Records Omitted : 13
+Philadelphia Phillies Futures is not an MLB Team - Records Omitted : 18
+Philadelphia Phillies Futures is not an MLB Team - Records Omitted : 22
+Philadelphia Phillies Futures is not an MLB Team - Records Omitted : 14
+------------------
+Observed in File: 235582
+Omitted in File : 67
+Omission %: 0.028432117259143894%
+------------------
+
+------------------
+Processing File 19
+------------------
+
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 16
+American League All-Stars is not an MLB Team - Records Omitted : 13
+National League All-Stars is not an MLB Team - Records Omitted : 22
+American League All-Stars is not an MLB Team - Records Omitted : 18
+National League All-Stars is not an MLB Team - Records Omitted : 20
+American League All-Stars is not an MLB Team - Records Omitted : 23
+National League All-Stars is not an MLB Team - Records Omitted : 12
+American League All-Stars is not an MLB Team - Records Omitted : 13
+National League All-Stars is not an MLB Team - Records Omitted : 12
+American League All-Stars is not an MLB Team - Records Omitted : 8
+National League All-Stars is not an MLB Team - Records Omitted : 18
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 21
+American League All-Stars is not an MLB Team - Records Omitted : 34
+National League All-Stars is not an MLB Team - Records Omitted : 10
+American League All-Stars is not an MLB Team - Records Omitted : 15
+------------------
+Observed in File: 283388
+Omitted in File : 279
+Omission %: 0.0983547610402338%
+------------------
+
+------------------
+Processing File 20
+------------------
+
+Northeastern University Huskies is not an MLB Team - Records Omitted : 99
+------------------
+Observed in File: 279113
+Omitted in File : 99
+Omission %: 0.035456928785295765%
+------------------
+
+------------------
+Processing File 21
+------------------
+
+Mexico is not an MLB Team - Records Omitted : 28
+Mexico is not an MLB Team - Records Omitted : 12
+Mexico is not an MLB Team - Records Omitted : 17
+Mexico is not an MLB Team - Records Omitted : 23
+Mexico is not an MLB Team - Records Omitted : 11
+Mexico is not an MLB Team - Records Omitted : 18
+Mexico is not an MLB Team - Records Omitted : 6
+Mexico is not an MLB Team - Records Omitted : 27
+Mexico is not an MLB Team - Records Omitted : 20
+Mexico is not an MLB Team - Records Omitted : 11
+Mexico is not an MLB Team - Records Omitted : 2
+Mexico is not an MLB Team - Records Omitted : 15
+Venezuela is not an MLB Team - Records Omitted : 15
+Venezuela is not an MLB Team - Records Omitted : 14
+Venezuela is not an MLB Team - Records Omitted : 19
+Venezuela is not an MLB Team - Records Omitted : 12
+Venezuela is not an MLB Team - Records Omitted : 19
+Venezuela is not an MLB Team - Records Omitted : 22
+Venezuela is not an MLB Team - Records Omitted : 24
+Venezuela is not an MLB Team - Records Omitted : 23
+Venezuela is not an MLB Team - Records Omitted : 20
+Venezuela is not an MLB Team - Records Omitted : 17
+Venezuela is not an MLB Team - Records Omitted : 23
+Venezuela is not an MLB Team - Records Omitted : 12
+Venezuela is not an MLB Team - Records Omitted : 21
+Venezuela is not an MLB Team - Records Omitted : 14
+Venezuela is not an MLB Team - Records Omitted : 30
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 23
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 35
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 14
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 22
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 17
+Kingdom of the Netherlands is not an MLB Team - Records Omitted : 19
+81
+University of Miami Hurricanes is not an MLB Team - Records Omitted : 61
+------------------
+Observed in File: 198211
+Omitted in File : 747
+Omission %: 0.3754561264186411%
+------------------
+
+------------------
+Processing File 22
+------------------
+
+Boston College Eagles is not an MLB Team - Records Omitted : 43
+Boston College Eagles is not an MLB Team - Records Omitted : 10
+------------------
+Observed in File: 282766
+Omitted in File : 53
+Omission %: 0.018739900784600753%
+------------------
+
+------------------
+Processing File 23
+------------------
+
+National League All-Stars is not an MLB Team - Records Omitted : 10
+American League All-Stars is not an MLB Team - Records Omitted : 16
+National League All-Stars is not an MLB Team - Records Omitted : 11
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 22
+National League All-Stars is not an MLB Team - Records Omitted : 19
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 17
+American League All-Stars is not an MLB Team - Records Omitted : 11
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 18
+National League All-Stars is not an MLB Team - Records Omitted : 14
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 17
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 19
+American League All-Stars is not an MLB Team - Records Omitted : 25
+Northeastern University Huskies is not an MLB Team - Records Omitted : 94
+Florida Southern College Mocs is not an MLB Team - Records Omitted : 86
+Canada is not an MLB Team - Records Omitted : 15
+Canada is not an MLB Team - Records Omitted : 9
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 12
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Canada is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 15
+Dominican Republic is not an MLB Team - Records Omitted : 3
+Dominican Republic is not an MLB Team - Records Omitted : 13
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 13
+Dominican Republic is not an MLB Team - Records Omitted : 15
+Italy is not an MLB Team - Records Omitted : 12
+Italy is not an MLB Team - Records Omitted : 37
+Italy is not an MLB Team - Records Omitted : 4
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 15
+Netherlands is not an MLB Team - Records Omitted : 45
+Netherlands is not an MLB Team - Records Omitted : 33
+Panama is not an MLB Team - Records Omitted : 20
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 44
+Puerto Rico is not an MLB Team - Records Omitted : 15
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 17
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 9
+United States is not an MLB Team - Records Omitted : 32
+United States is not an MLB Team - Records Omitted : 15
+United States is not an MLB Team - Records Omitted : 21
+Venezuela is not an MLB Team - Records Omitted : 17
+Venezuela is not an MLB Team - Records Omitted : 4
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 1
+Venezuela is not an MLB Team - Records Omitted : 21
+Australia is not an MLB Team - Records Omitted : 43
+Australia is not an MLB Team - Records Omitted : 35
+Australia is not an MLB Team - Records Omitted : 25
+Australia is not an MLB Team - Records Omitted : 61
+Canada is not an MLB Team - Records Omitted : 3
+Canada is not an MLB Team - Records Omitted : 61
+Dominican Republic is not an MLB Team - Records Omitted : 41
+Dominican Republic is not an MLB Team - Records Omitted : 17
+Italy is not an MLB Team - Records Omitted : 25
+Italy is not an MLB Team - Records Omitted : 34
+------------------
+Observed in File: 275740
+Omitted in File : 1541
+Omission %: 0.5557539102931683%
+------------------
+
+------------------
+Processing File 24
+------------------
+
+Mexico is not an MLB Team - Records Omitted : 18
+Mexico is not an MLB Team - Records Omitted : 22
+Mexico is not an MLB Team - Records Omitted : 6
+Mexico is not an MLB Team - Records Omitted : 25
+Netherlands is not an MLB Team - Records Omitted : 35
+Netherlands is not an MLB Team - Records Omitted : 34
+Panama is not an MLB Team - Records Omitted : 15
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 38
+Panama is not an MLB Team - Records Omitted : 13
+Panama is not an MLB Team - Records Omitted : 15
+Puerto Rico is not an MLB Team - Records Omitted : 14
+Puerto Rico is not an MLB Team - Records Omitted : 24
+Puerto Rico is not an MLB Team - Records Omitted : 20
+South Africa is not an MLB Team - Records Omitted : 40
+South Africa is not an MLB Team - Records Omitted : 31
+South Africa is not an MLB Team - Records Omitted : 3
+United States is not an MLB Team - Records Omitted : 6
+United States is not an MLB Team - Records Omitted : 59
+Venezuela is not an MLB Team - Records Omitted : 9
+Venezuela is not an MLB Team - Records Omitted : 20
+Venezuela is not an MLB Team - Records Omitted : 21
+Venezuela is not an MLB Team - Records Omitted : 15
+Australia is not an MLB Team - Records Omitted : 27
+Australia is not an MLB Team - Records Omitted : 34
+Canada is not an MLB Team - Records Omitted : 8
+Canada is not an MLB Team - Records Omitted : 19
+Canada is not an MLB Team - Records Omitted : 16
+Canada is not an MLB Team - Records Omitted : 19
+Dominican Republic is not an MLB Team - Records Omitted : 7
+Dominican Republic is not an MLB Team - Records Omitted : 5
+Dominican Republic is not an MLB Team - Records Omitted : 34
+Dominican Republic is not an MLB Team - Records Omitted : 17
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Dominican Republic is not an MLB Team - Records Omitted : 1
+Italy is not an MLB Team - Records Omitted : 3
+Italy is not an MLB Team - Records Omitted : 3
+Italy is not an MLB Team - Records Omitted : 6
+Italy is not an MLB Team - Records Omitted : 14
+Italy is not an MLB Team - Records Omitted : 21
+Mexico is not an MLB Team - Records Omitted : 31
+Mexico is not an MLB Team - Records Omitted : 38
+Mexico is not an MLB Team - Records Omitted : 6
+Panama is not an MLB Team - Records Omitted : 11
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 23
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 1
+Panama is not an MLB Team - Records Omitted : 7
+Puerto Rico is not an MLB Team - Records Omitted : 37
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 1
+Puerto Rico is not an MLB Team - Records Omitted : 6
+Puerto Rico is not an MLB Team - Records Omitted : 16
+Puerto Rico is not an MLB Team - Records Omitted : 7
+South Africa is not an MLB Team - Records Omitted : 37
+South Africa is not an MLB Team - Records Omitted : 34
+United States is not an MLB Team - Records Omitted : 7
+United States is not an MLB Team - Records Omitted : 9
+United States is not an MLB Team - Records Omitted : 48
+United States is not an MLB Team - Records Omitted : 23
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 1
+United States is not an MLB Team - Records Omitted : 12
+Venezuela is not an MLB Team - Records Omitted : 28
+Venezuela is not an MLB Team - Records Omitted : 12
+Venezuela is not an MLB Team - Records Omitted : 34
+Australia is not an MLB Team - Records Omitted : 8
+Australia is not an MLB Team - Records Omitted : 11
+Australia is not an MLB Team - Records Omitted : 44
+Australia is not an MLB Team - Records Omitted : 8
+Australia is not an MLB Team - Records Omitted : 8
+University of Michigan Wolverines is not an MLB Team - Records Omitted : 112
+Japan is not an MLB Team - Records Omitted : 57
+Korea is not an MLB Team - Records Omitted : 184
+Japan is not an MLB Team - Records Omitted : 76
+Korea is not an MLB Team - Records Omitted : 73
+Manatee C.C. Lancers is not an MLB Team - Records Omitted : 34
+Manatee C.C. Lancers is not an MLB Team - Records Omitted : 38
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 42
+Carolina Mudcats is not an MLB Team - Records Omitted : 15
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Carolina Mudcats is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 2
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 2
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 1
+Cincinnati Reds Futures is not an MLB Team - Records Omitted : 18
+University of Michigan Wolverines is not an MLB Team - Records Omitted : 75
+------------------
+Observed in File: 209629
+Omitted in File : 2077
+Omission %: 0.9810775320491625%
+------------------
+
+------------------
+Processing File 25
+------------------
+
+Mexico is not an MLB Team - Records Omitted : 66
+Mexico is not an MLB Team - Records Omitted : 3
+------------------
+Observed in File: 270128
+Omitted in File : 69
+Omission %: 0.025536923059841524%
+------------------
+
+------------------
+Processing File 26
+------------------
+
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 26
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 5
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 66
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 24
+Sultanes de Monterrey is not an MLB Team - Records Omitted : 28
+National League All-Stars is not an MLB Team - Records Omitted : 22
+American League All-Stars is not an MLB Team - Records Omitted : 14
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 21
+National League All-Stars is not an MLB Team - Records Omitted : 9
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 12
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 21
+American League All-Stars is not an MLB Team - Records Omitted : 4
+National League All-Stars is not an MLB Team - Records Omitted : 5
+American League All-Stars is not an MLB Team - Records Omitted : 8
+National League All-Stars is not an MLB Team - Records Omitted : 9
+American League All-Stars is not an MLB Team - Records Omitted : 10
+National League All-Stars is not an MLB Team - Records Omitted : 21
+American League All-Stars is not an MLB Team - Records Omitted : 19
+National League All-Stars is not an MLB Team - Records Omitted : 6
+American League All-Stars is not an MLB Team - Records Omitted : 13
+University of South Florida Bulls is not an MLB Team - Records Omitted : 6
+University of South Florida Bulls is not an MLB Team - Records Omitted : 69
+------------------
+Observed in File: 280419
+Omitted in File : 450
+Omission %: 0.1602170406844472%
+------------------
+
+------------------
+Processing File 27
+------------------
+
+Boston College Eagles is not an MLB Team - Records Omitted : 32
+Boston College Eagles is not an MLB Team - Records Omitted : 5
+Florida State University Seminoles is not an MLB Team - Records Omitted : 43
+Northeastern University Huskies is not an MLB Team - Records Omitted : 46
+Northeastern University Huskies is not an MLB Team - Records Omitted : 25
+University of Michigan Wolverines is not an MLB Team - Records Omitted : 28
+------------------
+Observed in File: 227113
+Omitted in File : 179
+Omission %: 0.07875332171831828%
+------------------
+
+------------------
+Processing File 28
+------------------
+
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 2
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 2
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+New York Yankees Futures is not an MLB Team - Records Omitted : 1
+------------------
+Observed in File: 279718
+Omitted in File : 96
+Omission %: 0.03430850493542139%
+------------------
+
+------------------
+Processing File 29
+------------------
+
+Manatee C.C. Lancers is not an MLB Team - Records Omitted : 7
+Manatee C.C. Lancers is not an MLB Team - Records Omitted : 44
+Mexico is not an MLB Team - Records Omitted : 6
+Mexico is not an MLB Team - Records Omitted : 63
+American League All-Stars is not an MLB Team - Records Omitted : 12
+National League All-Stars is not an MLB Team - Records Omitted : 12
+American League All-Stars is not an MLB Team - Records Omitted : 11
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 9
+National League All-Stars is not an MLB Team - Records Omitted : 16
+American League All-Stars is not an MLB Team - Records Omitted : 6
+National League All-Stars is not an MLB Team - Records Omitted : 13
+American League All-Stars is not an MLB Team - Records Omitted : 20
+National League All-Stars is not an MLB Team - Records Omitted : 21
+American League All-Stars is not an MLB Team - Records Omitted : 18
+National League All-Stars is not an MLB Team - Records Omitted : 22
+American League All-Stars is not an MLB Team - Records Omitted : 38
+National League All-Stars is not an MLB Team - Records Omitted : 17
+American League All-Stars is not an MLB Team - Records Omitted : 8
+National League All-Stars is not an MLB Team - Records Omitted : 10
+American League All-Stars is not an MLB Team - Records Omitted : 15
+National League All-Stars is not an MLB Team - Records Omitted : 11
+------------------
+Observed in File: 280319
+Omitted in File : 392
+Omission %: 0.13964540042962334%
+------------------
+
+------------------
+Processing File 30
+------------------
+
+------------------
+Observed in File: 241061
+Omitted in File : 0
+Omission %: 0.0%
+------------------

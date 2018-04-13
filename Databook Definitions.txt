@@ -1,0 +1,2258 @@
+Sat Apr  7 09:34:11 2018
+Databook Generator
+
+Columns
+
+----------------------------
+game_type
+----------------------------
+description:
+dtype: str
+example: S
+
+----------------------------
+game_local_game_time
+----------------------------
+description:
+dtype: str
+example: 13:05
+
+----------------------------
+game_gameday_sw
+----------------------------
+description:
+dtype: str
+example: N
+
+----------------------------
+stadium_id
+----------------------------
+description:
+dtype: str
+example: 2518
+
+----------------------------
+stadium_name
+----------------------------
+description:
+dtype: str
+example: Maryvale Baseball Park
+
+----------------------------
+stadium_venue_w_chan_loc
+----------------------------
+description:
+dtype: str
+example: USAZ0166
+
+----------------------------
+stadium_location
+----------------------------
+description:
+dtype: str
+example: Phoenix, AZ
+
+----------------------------
+game_venue
+----------------------------
+description:
+dtype: str
+example: Maryvale Baseball Park
+
+----------------------------
+game_date
+----------------------------
+description:
+dtype: str
+example: March 3, 2008
+
+----------------------------
+team_type
+----------------------------
+description:
+dtype: str
+example: away
+
+----------------------------
+team_id
+----------------------------
+description:
+dtype: str
+example: SD
+
+----------------------------
+team_name
+----------------------------
+description:
+dtype: str
+example: San Diego Padres
+
+----------------------------
+player_id
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_first
+----------------------------
+description:
+dtype: str
+example: Jared
+
+----------------------------
+player_last
+----------------------------
+description:
+dtype: str
+example: Wells
+
+----------------------------
+player_num
+----------------------------
+description:
+dtype: str
+example: 59
+
+----------------------------
+player_boxname
+----------------------------
+description:
+dtype: str
+example: Wells, J
+
+----------------------------
+player_rl
+----------------------------
+description:
+dtype: str
+example: R
+
+----------------------------
+player_position
+----------------------------
+description:
+dtype: str
+example: P
+
+----------------------------
+player_status
+----------------------------
+description:
+dtype: str
+example: A
+
+----------------------------
+player_avg
+----------------------------
+description:
+dtype: float32
+example: 0.0
+
+----------------------------
+player_hr
+----------------------------
+description:
+dtype: int8
+example: 0
+
+----------------------------
+player_rbi
+----------------------------
+description:
+dtype: int8
+example: 0.0
+
+----------------------------
+player_bat_order
+----------------------------
+description:
+dtype: int8
+example: nan
+
+----------------------------
+player_game_position
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_wins
+----------------------------
+description: The number of wins of the current pitcher
+dtype: int8
+example: 1
+
+----------------------------
+player_losses
+----------------------------
+description: The number of losses of the current pitcher
+dtype: int8
+example: 0
+
+----------------------------
+player_era
+----------------------------
+description: The Earned Run Average (ERA) of the current pitcher
+dtype: float32
+example: 13.50
+
+----------------------------
+atbat_pitcher
+----------------------------
+description: The ID of the current pitcher player 
+dtype: str
+example: 457437
+
+----------------------------
+inning_num
+----------------------------
+description: The inning number at the time of the event
+dtype: str
+example: 9
+
+----------------------------
+inning_next.
+----------------------------
+description:
+dtype: str
+example: N
+
+----------------------------
+atbat_num
+----------------------------
+description: The number of the player currently up to bat
+dtype: str
+example: 88
+
+----------------------------
+atbat_b
+----------------------------
+description: The number of balls at the time of the event
+dtype: str
+example: 4
+
+----------------------------
+atbat_s
+----------------------------
+description: The number of strikes at the time of the event
+dtype: str
+example: 0
+
+----------------------------
+atbat_o
+----------------------------
+description: The number of outs at the time of the event
+dtype: str
+example: 1
+
+----------------------------
+atbat_batter
+----------------------------
+description: The ID of the player at-bat
+dtype: str
+example: 461788
+
+----------------------------
+atbat_des
+----------------------------
+description: Description of the current at-bat
+dtype: str
+example: Ozzie Chavez walks.  
+
+----------------------------
+atbat_stand
+----------------------------
+description:
+dtype: str
+example: L
+
+----------------------------
+atbat_event
+----------------------------
+description:
+dtype: str
+example: Walk
+
+----------------------------
+pitch_des
+----------------------------
+description:
+dtype: str
+example: Ball
+
+----------------------------
+pitch_id
+----------------------------
+description:
+dtype: str
+example: 597
+
+----------------------------
+pitch_type
+----------------------------
+description:
+dtype: str
+example: B
+
+----------------------------
+pitch_x
+----------------------------
+description:
+dtype: str
+example: 90.13
+
+----------------------------
+pitch_y
+----------------------------
+description:
+dtype: str
+example: 177.01
+
+----------------------------
+pitch_on_1b
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_on_2b
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_score
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_on_3b
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+game_game_pk
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+game_game_time_et
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_sv_id
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_pitcher.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+inning_num.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+inning_away_team
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+inning_home_team
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_num.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_b.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_s.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_o.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_start_tfs.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_start_tfs_zulu.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_batter.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_b_height
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_p_throws
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_des.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_des_es.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_des.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_des_es.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_type.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_tfs
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_tfs_zulu
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_start_speed.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_end_speed
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_sz_top
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_sz_bot
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_pfx_x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_pfx_z
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_px
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_pz
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_x0
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_y0
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_z0
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_vx0
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_vy0
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_vz0
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_ax
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_ay
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_az
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_break_y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_break_angle
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_break_length
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_pitch_type.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_type_confidence
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_zone
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_spin_dir
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_spin_rate
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_cc
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_mt
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_score.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_home_team_runs.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_away_team_runs.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event2.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_bats.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_team_abbrev
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_team_id
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_parent_team_abbrev
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_parent_team_id
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_current_position
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_pitcher.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+inning_num.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_num.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_b.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_s.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_o.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_start_tfs.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_start_tfs_zulu.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_batter.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_des.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_des_es.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_b1
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_b2
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_b3
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_des.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_des_es.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_type.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_start_speed.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_pitch_type.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_score.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_home_team_runs.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_away_team_runs.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event2.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_team
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_pos
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_type
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_first_name
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_last_name
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_jersey_number
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_height
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_weight
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_bats.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_throws
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_dob
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_w
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_l
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_sv
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+season_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_w
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_l
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_sv
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+career_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_des
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Month_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_des
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Team_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Empty_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Men_On_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+RISP_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Loaded_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_LHB_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_RHB_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_des
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event_num.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event_es.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_event_num
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_play_guid
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_nasty
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event_num.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event_es.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event2_es.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event2_es.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_des
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_w
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_l
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_sv
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+series_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_des
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_avg
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_ab
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_h
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_rbi
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_hr
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_bb
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_so
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_ip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_whip
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+vs_B5_era
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+Pitch_out
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_start_tfs
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_start_tfs_zulu
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_home_team_runs
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_away_team_runs
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+player_bats
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_end_tfs_zulu
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_des_es
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event_num
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event_es
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_des_es
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_start_speed
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+pitch_pitch_type
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event2
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event2_es
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event3
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event3.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event3_es.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event3.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event3_es.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event4.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event4_es.x
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event4.y
+----------------------------
+description:
+dtype: str
+example: nan
+
+----------------------------
+atbat_event4_es.y
+----------------------------
+description:
+dtype: str
+example: nan
